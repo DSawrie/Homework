@@ -38,3 +38,23 @@ p {
   text-align: center;
  color: rgb(116, 0, 0);
 }
+
+#main-header {
+  font-size: 48px;
+  text-align: center;
+  color: rgb(110, 0, 0);
+}
+
+.centered-list {
+  list-style-position: inside;
+  text-align: center;
+  padding: 0;
+  color: rgb(116, 0, 0);
+}
+
+section a {
+  display: block;
+  text-align: center;
+  color: rgb(116, 0, 0);
+  text-decoration: underline;
+}
