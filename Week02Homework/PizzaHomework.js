@@ -1,12 +1,10 @@
-const pizzaplace = "Imo's"; {
+const pizzaPlace = "Imo's";
   console.log(typeof pizzaPlace);
-}
 
-let numberOfToppings = 5; {
+let numberOfToppings = 5;
   console.log(typeof numberOfToppings);
-}
 
-console.log(`${pizzaplace} offers ${numberOfToppings} pizzatoppings!`)
+console.log(`${pizzaPlace} offers ${numberOfToppings} pizzatoppings!`)
 
 if (numberOfToppings <= 10) {
   console.log("Quality, not quantity!");

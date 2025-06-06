@@ -1,10 +1,8 @@
-const pizzaplace = "Imo's"; {
-  console.log(typeof pizzaPlace);
-}
+const pizzaplace = "Imo's";
+  console.log(typeof pizzaplace);
 
-let numberOfToppings = 5; {
+let numberOfToppings = 5;
   console.log(typeof numberOfToppings);
-}
 
 console.log(`${pizzaplace} offers ${numberOfToppings} pizzatoppings!`)
 
