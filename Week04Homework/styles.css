@@ -16,13 +16,6 @@ section {
   color: rgb(116, 0, 0);
 }
 
-nav {
-  list-style-position: inside;
-  text-align: center;
-  padding: 0;
-  color: rgb(116, 0, 0);
-}
-
 img {
   display: block;
   margin: 0 auto;
